@@ -331,6 +331,22 @@ body {
 
 .sliders__img-desc-btn {
   justify-content: right;
+}
+
+.sliders__img-desc-cayenne {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+  opacity: 0.6;
+  text-transform: capitalize;
+  transition: all 0.2s ease;
+  background: #d23166;
+  border-radius: 5px;
+  padding: 1.065rem 3.45rem;
+  width: fit-content;
   margin-left: 19.5rem;
 }
 
